@@ -1,0 +1,16 @@
+.selected-capacities-container {
+	margin: 10px 0 0 0;
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+}
+.selected-capacities-container label {
+	display: block;
+}
+.selected-capacities-container strong {
+	display: block;
+	margin: 10px 0;
+}
+.selected-capacities-container strong:first-of-type {
+	margin: 0 0 10px 0;	
+}
